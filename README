@@ -1,0 +1,6 @@
+find ~/Software/biolizard-genai-skills/skills -mindepth 1 -maxdepth 1 -type d -exec ln -s {} . \;
+
+
+
+source: git@github.com:ailabs-393/ai-labs-claude-skills.git
+
