@@ -189,6 +189,7 @@ When a user requests lead research:
 - **Provide context** about your ideal customer profile
 - **Specify constraints** like industry, location, or company size
 - **Request follow-up** research on promising leads for deeper insights
+- **Verify output** always double check the leads and url's. Do not hallucinate or make up companies or contact information.
 
 ## Related Use Cases
 
